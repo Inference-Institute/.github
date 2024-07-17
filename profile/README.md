@@ -1,5 +1,3 @@
-# Welcome to Inference Institute
-
 ![Inference Institute Logo](https://avatars.githubusercontent.com/u/151373824?s=200&v=4)
 
 ## Architecting Intelligence, Engineering Success
