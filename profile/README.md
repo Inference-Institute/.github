@@ -29,4 +29,4 @@ We currently focus on delivering top-tier **Solution Designs for AI**, including
 ### 🌐 Let's Connect
 
 - 🌐 Visit our website: [inference.institute](https://inference.institute)
-- 📧 Email us: [info@inference.institute](mailto:info@inference.institute)
+- 📧 Email us: [contact@inference.institute](mailto:contact@inference.institute)
